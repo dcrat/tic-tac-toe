@@ -22,4 +22,7 @@
   - Feel free to open an issue.
   
   ## Quickstart 🚀🚀
-  
+  - This game is Available On : https://tic-tac-toeox.netlify.app/
+ 
+   <hr>
+   - By <a href="https://github.com/dcrat" > Dcrat </a>
