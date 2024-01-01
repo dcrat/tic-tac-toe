@@ -1,1 +1,1 @@
-<a href = "https://github.com/dcrat/tic-tac-toe_ox/graphs/contributors">CONTRIBUTORS</a>
+A pure HTML CSS and Javascript based TIC-TAC-TOE game
